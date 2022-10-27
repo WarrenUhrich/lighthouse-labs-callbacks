@@ -36,3 +36,5 @@ const runOurFunction = callback => {
 
 runOurFunction(sayHello3);
 runOurFunction(text => `<<<NEW FORMATTED TEXT:${text}:>>>`);
+
+const sum = (x, y) => Number(x) + Number(y);

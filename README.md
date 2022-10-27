@@ -1,8 +1,8 @@
 # Lighthouse Labs | Callbacks
 
 * [X] Functions as Values
-* [ ] Callbacks and Higher Order Functions
-* [ ] Anonymous Functions
+* [X] Callbacks and Higher Order Functions
+* [X] Anonymous Functions
 * [ ] Arrow Functions
 * [ ] Make our own Higher Order Functions
 
@@ -17,3 +17,9 @@
 * object
     * Array
     * Object
+
+Callback: a function passed into another for later execution.
+
+High order function follows at least one of these two rules:
+    1. Accepts one or more functions as arguments.
+    2. Returns one or more functions as a result.

@@ -3,8 +3,8 @@
 * [X] Functions as Values
 * [X] Callbacks and Higher Order Functions
 * [X] Anonymous Functions
-* [ ] Arrow Functions
-* [ ] Make our own Higher Order Functions
+* [X] Arrow Functions
+* [X] Make our own Higher Order Functions
 
 * primitive
     * Number (NaN and Infinity)

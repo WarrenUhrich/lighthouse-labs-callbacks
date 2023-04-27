@@ -1,7 +1,7 @@
 # Lighthouse Labs | Callbacks
 
-* [ ] Functions as Values
-* [ ] Callbacks and Higher Order Functions
-* [ ] Anonymous Functions
+* [X] Functions as Values
+* [X] Callbacks and Higher Order Functions
+* [X] Anonymous Functions
 * [ ] Arrow Functions
 * [ ] Make our own Higher Order Functions

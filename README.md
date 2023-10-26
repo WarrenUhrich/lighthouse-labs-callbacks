@@ -5,4 +5,3 @@
 * [ ] Anonymous Functions
 * [ ] Arrow Functions
 * [ ] Make our own Higher Order Functions
-

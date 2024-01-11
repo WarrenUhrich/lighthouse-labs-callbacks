@@ -1,5 +1,7 @@
 # Lighthouse Labs | Callbacks
 
+[GitHub Repository Branch](https://github.com/WarrenUhrich/lighthouse-labs-callbacks/tree/2024.01.11-web-immersive-8january2024-east) | [Vimeo Video Recording](https://vimeo.com/902018964/4254501d7d?share=copy)
+
 * [X] Functions as Values
 * [X] Callbacks and Higher Order Functions
 * [X] Anonymous Functions
